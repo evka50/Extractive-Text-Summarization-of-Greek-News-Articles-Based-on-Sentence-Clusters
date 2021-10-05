@@ -11,7 +11,7 @@ http://uu.diva-portal.org/smash/record.jsf?pid=diva2%3A1470081&dswid=7613
 
 ## Architecture of the Greek Text Summarization System
 
-***Article -> PreProcessing -> Feature Extraction -> Sentence CLustering -> Sentence Selection -> Reordering Clusters -> Final Summary***
+***Article &#8594; PreProcessing &#8594; Feature Extraction &#8594; Sentence CLustering &#8594; Sentence Selection &#8594; Reordering Clusters &#8594; Final Summary***
 
 
 
